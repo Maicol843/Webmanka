@@ -41,5 +41,11 @@ Para mantener este repositorio profesional, solo he incluido los archivos donde 
 * `README.md`: Documentación del proyecto.
 
 ---
+
+<p align="center">
+  <img src="Captura.png" width="600" alt="capturas">
+</p>
+
+---
 **Desarrollado por:** [Maicol Daniel Mamani Chalco]  
-**Sitio Web en Vivo:** [Webmanka](https://www.webmanka.com)
+**Sitio Web:** [Webmanka](https://www.webmanka.com)
